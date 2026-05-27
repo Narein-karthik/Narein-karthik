@@ -48,7 +48,3 @@ I’m a final year undergraduate passionate about building real-world AI systems
 - 🔗 LinkedIn: https://www.linkedin.com/in/narein-karthik-e/
 - 📧 Email: narein2004@gmail.com
 
----
-
-## 📈 GitHub Stats
-![Narein's GitHub stats](https://github-readme-stats.vercel.app/api?username=Narein-karthik&show_icons=true&theme=default)
