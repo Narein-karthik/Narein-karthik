@@ -46,5 +46,5 @@ I’m a final year undergraduate passionate about building real-world AI systems
 
 ## 📫 Connect with Me
 - 🔗 LinkedIn: https://www.linkedin.com/in/narein-karthik-e/
-- 📧 Email: narein2004@gmail.com
+- 📧 Email: nareinoff@gmail.com
 
